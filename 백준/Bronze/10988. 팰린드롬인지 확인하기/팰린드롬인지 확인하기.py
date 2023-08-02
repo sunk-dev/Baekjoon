@@ -5,3 +5,4 @@ if(word==reverse_word):
     print(1)
 else:
     print(0)
+## .reverse() vs reversed()
